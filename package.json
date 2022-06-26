@@ -1,0 +1,16 @@
+{
+  "name": "starterpack",
+  "version": "1.0.0",
+  "description": "Starter Pack of ambroiselebs",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch scss/:css/",
+    "serve": "./serve.bat"
+  },
+  "author": "ambroiselebs",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "sass": "^1.53.0"
+  }
+}
